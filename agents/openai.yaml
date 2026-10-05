@@ -1,0 +1,4 @@
+interface:
+  display_name: "交付优先 · 减少无用功"
+  short_description: "减少重复核验、过度准备和反复评审，保留必要检查并推进既定交付"
+  default_prompt: "使用 $delivery-focus 推进当前任务，沿用已定事项和有效检查结果，完成尚缺的具体交付。"
